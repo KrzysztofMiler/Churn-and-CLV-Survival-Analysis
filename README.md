@@ -1,4 +1,7 @@
 # Churn-Prediction-and-CLV-using-Survival-Analysis
+
+![image](https://github.com/user-attachments/assets/a30055d3-7931-4829-8e5b-a97ff8548e21)
+
 ## Overview
 Welcome to the Churn Prediction and Customer Lifetime Value (CLV) project! This project leverages survival analysis to predict customer churn and calculate the lifetime value of each client. Additionally, it includes a "what-if" analysis feature to explore various scenarios and their potential impact on customer retention and value.
 
@@ -30,6 +33,8 @@ After preprocessing the data, survival analysis is applied to model the time unt
 **Purpose**: This feature allows businesses to simulate different scenarios, such as changes in marketing strategies or customer service improvements, and see their potential impact on churn and CLV.
 
 **Why its used**: What-if analysis provides a powerful tool for strategic planning, enabling businesses to make data-driven decisions.
+
+![image](https://github.com/user-attachments/assets/323eebae-9b46-4f0c-87df-cd42984d4e99)
 
 ## Benefits of This Solution
 -**Temporal Modeling**: Accurately captures the time-dependent nature of customer churn.
